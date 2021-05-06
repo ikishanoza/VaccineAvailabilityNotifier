@@ -16,3 +16,5 @@ This Application checks the cowin portal periodically to find vaccination slots 
 4) To Kill or Close the application  following command  
     pm2 stop vaccineNotifier.js && pm2 delete vaccineNotifier.js
 
+# API Source
+    https://apisetu.gov.in/public/marketplace/api/cowin/cowin-protected-v2#/Vaccination%20Appointment%20APIs/findByPin
