@@ -28,6 +28,6 @@ you can also set NO_OF_DAYS_TO_CHECK params in .env to check for how may days yo
     
 # References (Official Documentations):
 1) Postman: https://www.postman.com/postman/workspace/covid-19/documentation/4258786-7de7f235-bd0e-4660-a9d2-2e823a4b872d
-2)  APISetu: https://apisetu.gov.in/public/api/cowin#/Appointment%20Availability%20APIs/calendarByPin
+2)  APISetu: https://apisetu.gov.in/public/marketplace/api/cowin/cowin-protected-v2#/Vaccination%20Appointment%20APIs/findByPin
 
 
